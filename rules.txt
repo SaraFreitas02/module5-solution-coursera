@@ -1,0 +1,5 @@
+cannot change home-snippet.html
+
+randomCategoryShortName changes must be done through js
+
+follow js step by step
